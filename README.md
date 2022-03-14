@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about the 15 countries where I have lived
 - 📫 How to reach me: keybase.io/rodrigorivera
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 🇲🇽🇩🇪 in the UK
+- ⚡ Fun fact: Mexican German in the UK
 
