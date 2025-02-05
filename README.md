@@ -7,7 +7,7 @@ I am an **AI educator** passionate about building the future of agentic software
 ## 🚀 What I Do
 
 ### 🌟 AIProduct.Engineer
-I lead [AIProduct.Engineer](https://aiproduct.engineer), a vibrant community for developers exploring **AI agents** and **agentic software**.  
+We are building [AIProduct.Engineer](https://aiproduct.engineer), a vibrant community for developers exploring **AI agents** and **agentic software**.  
 - 🛠️ Hands-on tutorials on production-ready AI techniques  
 - 📚 Structured courses to build and monetize AI-powered applications  
 - 🤝 Community resources for developers transitioning into AI product engineering roles
@@ -36,7 +36,7 @@ I teach **Building AI Products** at the university level and create open-source 
 ## 🌟 Let’s Collaborate!
 I am always open to connecting with like-minded individuals, whether you are a developer, entrepreneur, or AI enthusiast. Let’s work together to build AI-powered solutions that solve real-world problems.
 
-- 🌐 [Website](https://rodriveracom)  
+- 🌐 [Website](https://www.aiproduct.engineer/members/rodriveracom)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rodriveracom)  
 - 📧 Reach out: [rod@aip.engineer](mailto:rod@aip.engineer)
 
